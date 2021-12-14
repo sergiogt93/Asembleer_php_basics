@@ -9,7 +9,7 @@
     $number = 10;
     echo $number;
 
-    echo "<h4>Integer</h4>";
+    echo "<h4>Float</h4>";
     $numberFloat = 10.2;
     echo $numberFloat;
 
@@ -21,7 +21,7 @@
     $array = array("Watermelon", "Melon", "Apple", "Orange");
     print_r($array);
 
-    echo "<h4>Array</h4>";
+    echo "<h4>Object</h4>";
     $array = array(
         "marca" => "lg",
         "model" => "tesla",
